@@ -29,6 +29,8 @@
     "@heroui/react": "^2.8.1",
     "@vitejs/plugin-react": "^4.7.0",
     "clsx": "^2.1.1",
+    "crypto-js": "^4.2.0",
+    "idb-keyval": "^6.2.2",
     "lit-html": "^2.8.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
